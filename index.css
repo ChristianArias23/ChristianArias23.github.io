@@ -1,0 +1,76 @@
+a:link {
+	color:#00ff00;	
+}
+
+a:visited {
+	color:#ffff00;
+}
+
+body {
+	font-family:  "Adventure", fantasy;
+	color: #000000;
+	height:100%;
+	width:100%;
+	background: url(http://www.planwallpaper.com/static/images/41-Best-and-Coolest-Collection-HD-Wallpapers-Ever-1.jpg);
+	background-repeat:no-repeat;
+	background-color: #4F8794;
+	background-size:1300px 900px;
+	}
+h1 { 
+	font-size: 2.0em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 2.0em;
+	text-align: left;
+}
+h3 {
+	font-size: 2.0em;
+	text-align: left;
+}
+h4 {
+	font-size: 2.0em;
+	text-align: left;
+}
+h5 {
+	font-size: 2.0em;
+	text-align: left;
+}
+h6 {
+	font-size: 2.0em;
+	text-align: left;
+}
+h7 {
+	font-size: 2.0em;
+	text-align: left;
+}
+h8 {
+	font-size: 2.0em;
+	text-align: left;
+}
+
+table {
+	margin-left: inherit;
+	margin-right: inherit;
+	border-collapse: collapse;
+	
+}
+
+td {
+    padding: 5px;
+    border: solid;
+    border-color: #ffffff;
+    
+}
+tr {
+	border: 3px solid #ffffff;
+	text-align: center;
+	background-color:#003333; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #006666;
+}
